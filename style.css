@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .example {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  input, button, select {
+    padding: 8px;
+    margin: 5px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  #taskList li {
+    margin: 5px 0;
+  }
+  
+  #stockTicker {
+    font-family: monospace;
+  }
